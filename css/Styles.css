@@ -1,0 +1,146 @@
+h1 {
+  margin: 50;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+body {
+  background-color: #f5f5f5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.topcontainer {
+  padding-top: 100px;
+  position: relative;
+  padding-bottom: 30px;
+  background-color: #e3fdfd;
+}
+
+.topcloud {
+  position: relative;
+  left: 250px;
+  top: 50px;
+}
+
+.bottomcloud {
+  display: inline-block;
+  position: absolute;
+  left: 300px;
+}
+
+.bottom-container{
+  padding: 50px 0 20px;
+  background-color: #66bfbf;
+}
+
+.middle-container{
+  margin: 50px auto;
+}
+
+.myimage {
+  height: 200px;
+  width: 200px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  padding: 20px;
+  font-size: 1rem;
+}
+
+.footer-link:hover{
+  color: #eaf6f6;
+}
+
+.Subheaading {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.img1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.student {
+  color: #40514e;
+  padding-bottom: 20px
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 5%;
+  border-color: #e4e3e3;
+  border-width: 7px;
+}
+
+.btn {
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #37b39a);
+  background-image: -moz-linear-gradient(top, #66bfbf, #37b39a);
+  background-image: -ms-linear-gradient(top, #66bfbf, #37b39a);
+  background-image: -o-linear-gradient(top, #66bfbf, #37b39a);
+  background-image: linear-gradient(to bottom, #66bfbf, #37b39a);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #14c7be;
+  background-image: -webkit-linear-gradient(top, #14c7be, #11b8d6);
+  background-image: -moz-linear-gradient(top, #14c7be, #11b8d6);
+  background-image: -ms-linear-gradient(top, #14c7be, #11b8d6);
+  background-image: -o-linear-gradient(top, #14c7be, #11b8d6);
+  background-image: linear-gradient(to bottom, #14c7be, #11b8d6);
+  text-decoration: none;
+}
+
+.bottom{
+color: #f5f5f5;
+font-family: 'Merriweather', serif;
+
+}
+
+.student{
+  width: 30%;
+  margin: auto;
+}
+
+p{
+  color: #40514e;
+  line-height: 2;
+}
